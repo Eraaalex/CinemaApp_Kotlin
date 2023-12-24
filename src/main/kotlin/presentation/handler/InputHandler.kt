@@ -30,7 +30,7 @@ class InputHandler {
     }
 
     fun getSeats(): List<Int> {
-        println("Enter seats (1-100) (enter the seats separated by a space) : ")
+        println("Enter seats (1-30) (enter the seats separated by a space) : ")
         return readLine()!!.split(" ").map { it.toInt() }
     }
 

@@ -2,7 +2,7 @@ package service
 
 import model.Session
 import model.Ticket
-import exception.NotFoundException
+import utils.exception.NotFoundException
 import repository.Repository
 
 

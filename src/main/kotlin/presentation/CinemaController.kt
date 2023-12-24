@@ -1,6 +1,6 @@
 package presentation
 
-import exception.NotFoundException
+import utils.exception.NotFoundException
 import presentation.handler.NotificationHandler
 import service.CinemaServiceImpl
 import java.util.*

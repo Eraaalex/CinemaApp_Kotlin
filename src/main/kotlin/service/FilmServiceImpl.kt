@@ -1,7 +1,7 @@
 package service
 
 import model.Film
-import exception.NotFoundException
+import utils.exception.NotFoundException
 import repository.Repository
 import java.util.Date
 

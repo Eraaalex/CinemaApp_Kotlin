@@ -2,9 +2,9 @@ package service
 
 import model.Film
 import model.Session
-import exception.InvalidBookingException
-import exception.InvalidReturnException
-import exception.NotFoundException
+import utils.exception.InvalidBookingException
+import utils.exception.InvalidReturnException
+import utils.exception.NotFoundException
 import java.util.*
 
 interface CinemaAdminService {

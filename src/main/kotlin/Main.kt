@@ -3,8 +3,8 @@ import com.google.gson.reflect.TypeToken
 import model.Film
 import model.Session
 import model.Ticket
-import exception.ExceptionHandler
-import extention.toRed
+import utils.exception.ExceptionHandler
+import utils.extention.toRed
 import presentation.CinemaController
 import presentation.handler.InputHandler
 import service.*

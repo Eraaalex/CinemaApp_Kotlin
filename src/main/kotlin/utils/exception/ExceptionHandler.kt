@@ -1,6 +1,6 @@
-package exception
+package utils.exception
 
-import extention.toRed
+import utils.extention.toRed
 
 object ExceptionHandler {
     fun handleException(e: Exception) {

@@ -1,6 +1,6 @@
 package presentation.handler
 
-import extention.toGreen
+import utils.extention.toGreen
 
 object NotificationHandler {
     fun notify(message: String?) {
