@@ -25,7 +25,7 @@ class TicketServiceImpl(private val sessionService: SessionService, private val 
 
     override fun buyTickets(session: Session, seats: List<Int>): Boolean {
         val reservedSeats = sessionService.getReservedSeats(session)
-        if (seats.any { it in reservedSeats }) {
+        if (seats.any { it in reservedSeats || it > session.seatsNumber}) {
             return false
         }
         seats.forEach { seat ->
