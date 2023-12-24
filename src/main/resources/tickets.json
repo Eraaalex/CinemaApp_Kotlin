@@ -1,1 +1,51 @@
-[{"id":"1","sessionId":"4","seat":1,"price":100.0,"isVisited":false},{"id":"2","sessionId":"4","seat":2,"price":100.0,"isVisited":false},{"id":"3","sessionId":"4","seat":10,"price":100.0,"isVisited":false},{"id":"4","sessionId":"1","seat":1,"price":100.0,"isVisited":false},{"id":"5","sessionId":"1","seat":2,"price":100.0,"isVisited":false},{"id":"6","sessionId":"1","seat":3,"price":100.0,"isVisited":false},{"id":"7","sessionId":"1","seat":12,"price":100.0,"isVisited":false}]
+[
+  {
+    "id": "1",
+    "sessionId": "4",
+    "seat": 1,
+    "price": 100.0,
+    "isVisited": false
+  },
+  {
+    "id": "2",
+    "sessionId": "4",
+    "seat": 2,
+    "price": 100.0,
+    "isVisited": false
+  },
+  {
+    "id": "3",
+    "sessionId": "4",
+    "seat": 10,
+    "price": 100.0,
+    "isVisited": false
+  },
+  {
+    "id": "4",
+    "sessionId": "1",
+    "seat": 1,
+    "price": 100.0,
+    "isVisited": false
+  },
+  {
+    "id": "5",
+    "sessionId": "1",
+    "seat": 2,
+    "price": 100.0,
+    "isVisited": false
+  },
+  {
+    "id": "6",
+    "sessionId": "1",
+    "seat": 3,
+    "price": 100.0,
+    "isVisited": false
+  },
+  {
+    "id": "7",
+    "sessionId": "1",
+    "seat": 12,
+    "price": 100.0,
+    "isVisited": false
+  }
+]

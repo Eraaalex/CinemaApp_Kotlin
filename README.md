@@ -33,11 +33,13 @@
 Предвавительно рекомендую ввести Program Arguments в Run/Debug Configurations, чтобы не
 вводить их каждый раз при запуске приложения.
 
-Program Arguments: `"src\main\resources\films.json src\main\resources\sessions.json src\main\resources\tickets.json"`
+Program Arguments: `src\main\resources\films.json src\main\resources\sessions.json src\main\resources\tickets.json`
 
 Это файлы в которых по умолчанию хранятся данные о фильмах, сеансах и билетах соответственно.
 
 Однако можно передать и свои, как через Program Arguments, так и через консоль.
+
+Вводить файлы можно либо только через Program Arguments, либо только через консоль. Смешанный тип ввода не поддерживается.
 
 После запуска приложения
 вы увидите список команд доступных к выполнению.
