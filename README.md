@@ -101,8 +101,10 @@ var isVisited : Boolean = false` - отвечает за реальное пос
 
 `Session:
 val seatsNumber: Int = 30` - количество мест в зале, по умолчанию 30. Всего 3 ряда по 10 мест.
+
 `Film:
 val rentalDates: Pair<Date, Date>` -- даты проката фильма
+
 ---- 
 
 * `service` - содержит классы, необходимые для работы с данными.
