@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Titanic",
+    "durationInMinutes": 124,
+    "director": "James Cameron",
+    "rentalDates": {
+      "first": "Dec 29, 2023, 12:00:00 AM",
+      "second": "Jan 30, 2024, 12:00:00 AM"
+    }
+  },
+  {
+    "id": "2",
+    "name": "It",
+    "durationInMinutes": 120,
+    "director": "Andy Muschietti",
+    "rentalDates": {
+      "first": "Dec 29, 2023, 12:00:00 AM",
+      "second": "Jan 30, 2024, 12:00:00 AM"
+    }
+  }
+]
